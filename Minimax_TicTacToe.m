@@ -1,6 +1,4 @@
 %% Project Assignment #2 for ENGR 25, Fall 2021
-% Instructor: Dr. Weathers
-% Script written by: Ho, Darren, and Miu, Seth
 
 % The following script enables the user to play a game of tic tac toe 
 % against the computer with their life at stake. 
